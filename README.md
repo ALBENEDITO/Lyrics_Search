@@ -19,4 +19,5 @@ exemplo mostra o consumo de uma API de musicas, ao digitar o nome do artista e a
 
 Obrigado pela ajuda Código Fonte TV
 
-https://github.com/ALBENEDITO/Lyrics_Search/blob/main/Screenshot_5.jpg
+![image](https://github.com/ALBENEDITO/Lyrics_Search/blob/main/Screenshot_5.jpg)
+
